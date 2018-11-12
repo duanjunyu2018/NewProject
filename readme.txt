@@ -8,3 +8,11 @@ Git test for master.
 Ji Huo Windows .
 
 int a;
+int a;
+int a;
+int a;
+int a;
+int a;
+int a;
+int a;
+int a;
